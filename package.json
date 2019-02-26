@@ -1,0 +1,16 @@
+{
+  "name": "elm-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "elm-app start",
+    "build": "elm-app build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "create-elm-app": "^3.0.4"
+  }
+}
